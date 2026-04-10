@@ -1,0 +1,42 @@
+# Virtual environments
+venv/
+yolovenv/
+objenv/
+demucs310/
+f2f_env/
+*env/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac system files
+.DS_Store
+
+# Media files
+*.mp4
+*.mp3
+*.wav
+*.mov
+*.avi
+*.mkv
+*.jpeg
+*.jpg
+*.png
+*.gif
+
+# Models and Weights
+*.pth
+*.pt
+*.onnx
+
+# Nested Git
+**/.git/
+
+# Other
+.vscode/
+.idea/
+*.log
